@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 2rem;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+
+.content {
+  display: flex;
+  gap: 3rem;
+}
